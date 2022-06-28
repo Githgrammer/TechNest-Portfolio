@@ -39,12 +39,6 @@ function start(){
        timer=null;
        
    }
-   
-
-
-
-
-
 dark.addEventListener("click" ,()=>{
    
 document.body.style.backgroundColor="#18191A";
@@ -52,7 +46,6 @@ document.body.style.color="white";
 
 for (let i = 0; i < darkProject.length; i++) {
     darkProject[i].style.backgroundColor="#18191A";
-    
 }
 
 })
